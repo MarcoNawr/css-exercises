@@ -1,0 +1,15 @@
+/* grouping selector x, y */
+.click, .noclick{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click{
+    background-color: #000000;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+}
+
+.noclick{
+    background-color: rgb(211, 211, 50);;
+}
