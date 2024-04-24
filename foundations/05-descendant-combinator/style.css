@@ -1,0 +1,8 @@
+/* descendants css */
+div .text {
+    /* yellow background, red text, a font size of 20px, and center aligned. */
+    background-color: hwb(60 0% 0%);
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
