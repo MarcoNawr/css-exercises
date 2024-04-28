@@ -30,6 +30,7 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -66,4 +67,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+.header{
+  font-weight: bold;
+  font-size: 1.5em;
 }
